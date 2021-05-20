@@ -4,10 +4,10 @@ import os
 import configparser
 
 # Third party imports
-import praw
-import prawcore.exceptions
+# import praw
+# import prawcore.exceptions
 import tweepy
-from groupy.client import Client
+# from groupy.client import Client
 
 
 def create_groupme_api():
